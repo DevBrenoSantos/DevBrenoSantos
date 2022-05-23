@@ -29,6 +29,6 @@
   <a href="https://www.linkedin.com/in/breno-amaral-84624123b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://wa.me/qr/4VOKIPDAXVWFE1" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="blank"></a>  
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/DevBrenoSantos/DevBrenoSantos/blob/output/github-contribution-grid-snake.svg)
  
 </div>
