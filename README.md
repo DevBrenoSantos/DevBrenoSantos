@@ -16,8 +16,7 @@
     <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
     <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
-
-
+<br/>
  Entre linhas de código e bytes de paixão, meu coração pulsa de amor em 404 dimensões ❤️👩‍💻
 
  ## Contato:
