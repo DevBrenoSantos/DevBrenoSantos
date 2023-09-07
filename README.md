@@ -25,3 +25,6 @@
 ![snake animation](https://github.com/DevBrenoSantos/DevBrenoSantos/blob/output/github-contribution-grid-snake.svg)
 
 [![readme](https://github-readme-stats.vercel.app/api/pin/?username=DevBrenoSantos&repo=DevBrenoSantos&theme=react)](https://github.com/DevBrenoSantos/DevBrenoSantos)
+
+
+![snake gif](https://github.com/DevBrenoSantos/DevBrenoSantos/blob/output/github-contribution-grid-snake.gif)
