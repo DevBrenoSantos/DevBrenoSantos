@@ -22,4 +22,4 @@
  ## Contato:
  - [WhatsApp](https://wa.me/+5531992999149)<br/>
 
- 
+![snake gif](https://github.com/DevBrenoSantos/DevBrenoSantos/blob/output/github-contribution-grid-snake.gif)
