@@ -22,4 +22,6 @@
  ## Contato:
  - [WhatsApp](https://wa.me/+5531992999149)<br/>
 
-![snake gif](https://github.com/DevBrenoSantos/DevBrenoSantos/blob/output/github-contribution-grid-snake.gif)
+![snake animation](https://github.com/DevBrenoSantos/DevBrenoSantos/blob/output/github-contribution-grid-snake.svg)
+
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=DevBrenoSantos&repo=DevBrenoSantos&theme=react)](https://github.com/DevBrenoSantos/DevBrenoSantos)
