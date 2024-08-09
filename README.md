@@ -3,7 +3,7 @@
 
 [![Discord](	https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/gwAp5bGUEr)
 [![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/breno-amaral-84624123b/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/breno_amaral.s/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brenosantos.dev/)
 
 ![Dev Breno Santos's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevBrenoSantos&show_icons=true&theme=tokyonight)
 
