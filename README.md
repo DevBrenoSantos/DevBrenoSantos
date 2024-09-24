@@ -41,6 +41,3 @@
 
 <br/>
  Entre linhas de código e bytes de paixão, meu coração pulsa de amor em 404 dimensões ❤️👩‍💻
-
- ## Contato:
- - [WhatsApp](https://wa.me/+5531992999149)<br/>
