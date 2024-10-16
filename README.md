@@ -6,10 +6,10 @@
     <a href="https://www.twitch.tv/devbrenosantos"><img align="center" alt="Twitch" src="https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
 </div><br/>
 
-<div align="center">
-<img height="170em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevBrenoSantos&layout=compact&theme=tokyonight"/>
-  <img height="170em" width="400em" src="https://github-readme-stats.vercel.app/api?username=DevBrenoSantos&show_icons=true&theme=tokyonight"/>
-</div>
+  ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+
+ | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DevBrenoSantos&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevBrenoSantos&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+ | ----------- | ----------- |
 
 <div style="display: inline_block" align="center"><br/>
 <h2>Tecnologias em uso e estudos: </h2>
